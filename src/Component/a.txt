@@ -1,0 +1,36 @@
+Atoms:- 
+
+1. Checkbox : - Veda
+2. Images :- Pooja
+
+Molecules:- 
+
+1. AvatarMolecule :- Pooja
+2. CashAccelerationMolecule :- Pooja
+3. CashKickTable :- Vijitha
+4. HomeTableG :- Gajanand
+5. ModalHeader :- veda
+6. NewCashKickButton : - veda
+7. TableNavBar : - Vijitha
+
+Organism:- 
+
+1. AvatarOrg :- Saiprabhu
+2. CashAccelerationCard :- Saiprabhu
+3. CashAccelerationTable:- Saiprabhu
+4. HomeTableG :- Gajanand
+5. InfoCircle :- Vijitha
+6. NewCashKick :- Vijitha
+7. ReportOrg :- Sourav
+8. ReviewSummary :- Gajanand
+9. ReviewTable :- Sourav
+10. SliderTable :- Sourav
+
+
+Template:- 
+
+1. CashAccelerationPage :- SaiPrabhu
+2. HomePage :- veda
+3. HomePage1 :- Gajanand
+4. NewCashKick :- Sourav
+5. ReviewCashKick :- pooja
