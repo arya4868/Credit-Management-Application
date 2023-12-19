@@ -7,6 +7,7 @@ export interface Props {
   style?: CSSProperties
 }
 
+
 const MuiAvatar: React.FC<Props> = ({ src, variant, style }) => {
   return (
     <div>
@@ -21,3 +22,6 @@ const MuiAvatar: React.FC<Props> = ({ src, variant, style }) => {
 }
 
 export default MuiAvatar
+
+
+// Avatar component
