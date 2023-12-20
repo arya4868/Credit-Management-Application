@@ -2,6 +2,7 @@
   "name": "react-typescript-webpack-starter",
   "homepage": "https://arya4868.github.io/Credit-Management-Application",
   "version": "1.0.0",
+  "private":"false",
   "description": "A starter template for React with Typescript using Webpack 5",
   "scripts": {
     "storybook": "storybook dev -p 6006",
